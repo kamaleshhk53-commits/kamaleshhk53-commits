@@ -119,7 +119,7 @@ A Django-based E-commerce Website.
 
 ## 📊 GitHub Stats
 
-![Kamalesh's GitHub stats]<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kamaleshhk53-commits&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kamaleshhk53-commits&show_icons=true&theme=tokyonight" />
 
 ## 🔥 GitHub Streak
 
