@@ -119,20 +119,16 @@ A Django-based E-commerce Website.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kamaleshhk53-commits&show_icons=true&theme=tokyonight" />
-</p>
+![Kamalesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamaleshhk53-commits&show_icons=true&theme=tokyonight)
+
+
 ## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kamaleshhk53-commits&theme=tokyonight" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=kamaleshhk53-commits&theme=tokyonight)
 
 ## 💻 Most Used Languages
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshhk53-commits&layout=compact&theme=tokyonight" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshhk53-commits&layout=compact&theme=tokyonight)
 
 
 ---
