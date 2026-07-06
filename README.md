@@ -122,7 +122,6 @@ A Django-based E-commerce Website.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kamaleshhk53-commits&show_icons=true&theme=tokyonight" />
 </p>
-
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -134,6 +133,7 @@ A Django-based E-commerce Website.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshhk53-commits&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
