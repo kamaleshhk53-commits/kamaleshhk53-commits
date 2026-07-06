@@ -4,6 +4,10 @@
 
 # Hi 👋, I'm Kamalesh H K
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Kamalesh+H+K;Python+Full+Stack+Developer;Django+%7C+React+%7C+MySQL;Building+MiniMyntra+Project" />
+</p>
+
 ## 🚀 Python Full Stack Developer
 
 - 🎓 B.E. Electronics & Communication Engineering
@@ -13,8 +17,6 @@
 - 🎯 Goal: Become a Software Engineer
 
 ---
-
-## 💻 Tech Stack
 
 ## 💻 Tech Stack
 
