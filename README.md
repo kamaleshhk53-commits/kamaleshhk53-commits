@@ -129,7 +129,6 @@ A Django-based E-commerce Website.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamaleshhk53-commits&layout=compact&theme=tokyonight)
 
-
 ---
 
 Thanks for visiting my profile! ⭐
